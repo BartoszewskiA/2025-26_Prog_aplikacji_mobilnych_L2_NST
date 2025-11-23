@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lab03p01-atlas</string>
+    <string name="tytul">Mashrooms atalas</string>
+    <string name="btn_np">Next</string>
+    <string name="btn_ws">Previous</string>
+
+    <string-array name="nazwy">
+        <item>Porcini\n(Boletus edulis)</item>
+        <item>Bay bolete\n(Imleria badia)</item>
+        <item>Fly agaric\n(Amanita muscaria)</item>
+        <item>Parasol\nmushroom (Macrolepiota procera)</item>
+    </string-array>
+
+    <string-array name="opisy">
+        <item>a species of mushroom from the Boletaceae family, commonly known as the king bolete.</item>
+        <item>a species of mushroom from the Boletaceae family</item>
+        <item>a species of mushroom belonging to the Amanitaceae family</item>
+        <item>a species of mushroom belonging to the Agaricaceae family</item>
+    </string-array>
+</resources>
